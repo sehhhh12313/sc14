@@ -1,0 +1,5 @@
+import os
+
+# Відкриття 10 провідників
+for i in range(10):
+    os.system("start explorer")
